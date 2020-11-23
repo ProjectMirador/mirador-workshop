@@ -6,6 +6,12 @@ During the workshop you will be learning to customize [Mirador](https://projectm
 
  - Run this Mirador application using Webpack
  - Edit files in this repository and see the changes in a browser
+ 
+ 
+ We recommend using the [Firefox](https://www.mozilla.org/firefox/download) or [Chrome](https://www.google.com/chrome/) browser for development with the following add-ons:
+  - Redux DevTools - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/) | [Chrome](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+  - React DevTools - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) | [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
 
 ## Development system requirements
 
