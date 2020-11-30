@@ -1,6 +1,7 @@
 import Mirador from 'mirador/dist/es/src/index';
 import examplePlugin from './plugins/example_plugin';
 
+// Example: Workspace type set to Elastic 
 const config = {
     id: 'mirador-viewer',
     windows: [{
@@ -15,6 +16,12 @@ const config = {
     ],
     workspace: {
         type: 'elastic',
+        height: 5000, // height of the elastic mode's virtual canvas
+        viewportPosition: { // center coordinates for the elastic mode workspace
+            x: 0,
+            y: 0,
+        },
+        width: 5000, // width of the elastic mode's virtual canvas
     }
 };
 
