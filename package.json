@@ -23,6 +23,7 @@
   "homepage": "https://github.com/ProjectMirador/mirador-workshop#readme",
   "dependencies": {
     "mirador": "^3.0.0",
+    "mirador-image-tools": "^0.10.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
