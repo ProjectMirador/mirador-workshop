@@ -1,4 +1,5 @@
 # mirador-workshop
+⚠️ This repo contains a sample Mirador instance and [configuration examples](https://github.com/ProjectMirador/mirador-workshop/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) for a customizing Mirador 3 workshop. The [workshop content](https://docs.google.com/document/d/1_LPOcwMOM051qzhqMixqLLKXZ5SH9Vjd3_UA-tZniek/edit#heading=h.cbywkmpvhg5a) is available on Google docs.
 
 ## Setup your computer for Mirador development in advance
 
